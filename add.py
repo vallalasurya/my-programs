@@ -1,3 +1,4 @@
 x=7
-z=x>>1
-print("z= ",bin(z))
+z=8
+y=x+z
+print(y)
